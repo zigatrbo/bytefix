@@ -7,8 +7,8 @@ ByteFix je izmišljeno slovensko podjetje, ustanovljeno leta 2024 v Mariboru. Po
 
 ## Ekipa
 - Žiga Trbovšek — [@zigatrbo](https://github.com/zigatrbo), veja `ziga`.
-- Leo Dragić — [@leodragic](https://github.com/leodragic), predvidena veja `leo`, ki jo ustvari sam.
-- Anže Pečak — [@anzepecak](https://github.com/anzepecak), predvidena veja `anze`, ki jo ustvari sam.
+- Leo Dragić — [@leodragic](https://github.com/leodragic), veja `leo`.
+- Anže Pečak — [@anzepecak](https://github.com/anzepecak), veja `apecak`.
 
 ## Načrt spletne strani
 - **Domov:** predstavitev podjetja in glavnih storitev.
